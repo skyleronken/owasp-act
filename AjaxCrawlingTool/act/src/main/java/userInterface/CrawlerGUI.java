@@ -139,6 +139,7 @@ public class CrawlerGUI extends JFrame implements ClipboardOwner {
 			public void actionPerformed(ActionEvent arg0) {
 				JOptionPane.showMessageDialog(null, "AJAX Crawling Tool \n\n Created by Skyler Onken" +
 						"\n\n Contributions by: LDS ICS, OnPoint Development Group LLC \n\n Copyright 2011" +
+						"\n\n Credits to the Crawljax Project and Selenium" +
 						"\n\n http://securityreliks.securegossip.com", "About ACT",JOptionPane.PLAIN_MESSAGE);
 			}        	
         });
